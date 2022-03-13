@@ -4,5 +4,5 @@
 
 You could reach me through 
 
-* [Linkedin](www.linkedin.com/in/viswamrvvivek)
+* [Linkedin](https://www.linkedin.com/in/viswamrvvivek)
 
