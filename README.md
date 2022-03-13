@@ -4,5 +4,5 @@
 
 You could reach me through 
 
-<img src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg" style="max-width=50%;max-height=50%;">
+<img src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg" style="max-width=50%;">
 
